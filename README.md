@@ -1,6 +1,6 @@
 # Implementación de Diagramas 📊
 
-Este repositorio está dedicado exclusivamente a la implementación de diagramas relacionados con la materia **Nombre_de_la_Materia**. Aquí encontrarás diversos tipos de diagramas creados como parte del aprendizaje y práctica de los conceptos estudiados.
+Este repositorio está dedicado exclusivamente a la implementación de diagramas relacionados con la materia **POO**. Aquí encontrarás diversos tipos de diagramas creados como parte del aprendizaje y práctica de los conceptos estudiados.
 
 ## Tipos de Diagramas 📐
 
